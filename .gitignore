@@ -1,4 +1,5 @@
-Pycaret_FastAPI_1/
+venv/
+insurance_prediction_model.*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
